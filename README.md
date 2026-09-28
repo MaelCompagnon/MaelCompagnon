@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Maël Compagnon — AI &amp; Robotics" width="100%">
+  <img src="banner.svg" alt="Maël Compagnon — AI &amp; Robotics" width="100%">
 </p>
 
 Fourth-year engineering student at **ESAIP**, specialising in AI. I spend my time somewhere between an industrial robotic cell and a room full of retirees who are convinced the cloud is a weather phenomenon.
