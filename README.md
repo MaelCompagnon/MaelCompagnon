@@ -4,11 +4,9 @@
 
 ## About
 
-- Fourth-year engineering student at **ESAIP**, specialising in AI
-- Robotic cell operator at **SalMar** in Norway, after an exchange semester in Finland
-- President of **ANT** — weekly digital-literacy classes for seniors
-- Freelance web developer on the side
-- **Looking for a 6-month internship in 2027. Anywhere international.**
+<p align="center">
+  <img src="assets/about.svg" alt="whoami — Maël Compagnon, fourth-year engineering student at ESAIP specialising in AI, robotic cell operator at SalMar in Norway, president of ANT, freelance web developer. Looking for a 6-month internship in 2027, anywhere international." width="100%">
+</p>
 
 ## Selected work
 
