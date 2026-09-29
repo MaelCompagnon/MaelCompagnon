@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Maël Compagnon — AI &amp; Robotics" width="100%">
+  <img src="banner.svg" alt="Maël Compagnon — AI &amp; Robotics" width="100%">
 </p>
 
 ## About
