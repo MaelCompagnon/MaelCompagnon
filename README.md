@@ -23,72 +23,9 @@
 
 ## Tech stack
 
-<table align="center">
-<tr>
-  <th></th>
-  <th align="left">Shipped with</th>
-  <th align="left">Getting acquainted with</th>
-</tr>
-<tr>
-  <td><b>Languages</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/MATLAB-%230076A8.svg?style=flat-square&logo=mathworks&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logoColor=white" />
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  </td>
-</tr>
-<tr>
-  <td><b>Robotics &amp; industrial</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/ABB%20RAPID-%23FF000D.svg?style=flat-square&logo=abb&logoColor=white" />
-    <img src="https://img.shields.io/badge/TwinCAT-%23C7053D.svg?style=flat-square&logoColor=white" />
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/Universal%20Robots-%2300A0DF.svg?style=flat-square&logoColor=white" />
-    <img src="https://img.shields.io/badge/Cognex-%230033A0.svg?style=flat-square&logoColor=white" />
-    <img src="https://img.shields.io/badge/Siemens%20TIA%20Portal-%23009999.svg?style=flat-square&logo=siemens&logoColor=white" />
-    <img src="https://img.shields.io/badge/ESP32-%23E7352C.svg?style=flat-square&logo=espressif&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" />
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
-  </td>
-</tr>
-<tr>
-  <td><b>Web &amp; data</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=wordpress&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-  </td>
-</tr>
-<tr>
-  <td><b>Tooling</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellijidea&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
-  </td>
-  <td>
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/stack.svg" alt="Shipped with: Python, Java, JavaScript, TypeScript, MATLAB, SQL, ABB RAPID, TwinCAT, Django, React, HTML5, CSS, WordPress, PostgreSQL, Linux, Docker, VS Code, IntelliJ IDEA, Notion. Getting acquainted with: C, C++, Universal Robots, Cognex, Siemens TIA Portal, ESP32, Arduino, Raspberry Pi, NumPy, Pandas, Git, GitHub Actions" width="100%">
+</p>
 
 ## Off-screen
 
