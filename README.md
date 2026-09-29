@@ -12,11 +12,9 @@
 
 ## Selected work
 
-<!-- TODO Maël : remplace ces trois lignes par tes vrais projets. -->
-
-- **[project-one](#)** — one line on what it does · `Python`
-- **[project-two](#)** — one line on what it does · `Java` `PostgreSQL`
-- **[project-three](#)** — one line on what it does · `React`
+- **[project-one](#)** — Django Book Management · `Java` `PostgreSQL`
+- **[project-two](#)** — BattleShip · `Python`
+- **[project-three](#)** — Fitness&Nutrition APP · `Html`
 
 ## Tech stack
 
@@ -85,7 +83,6 @@
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-compagnon-157404296)
-- <!-- TODO: email --> `your.email@example.com`
 
 <br>
 
