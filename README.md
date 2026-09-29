@@ -35,8 +35,24 @@
 
 ## Elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-compagnon-157404296)
-- compagnonmael@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/ma%C3%ABl-compagnon-157404296">
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn" />
+  </a>
+  <a href="mailto:compagnonmael@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=maildotru&logoColor=2dd4bf&labelColor=161b22" alt="Email" />
+  </a>
+  <!-- Décommente quand tu auras un CV en ligne (déposé dans ce repo, ou sur Drive) :
+  <a href="LIEN_VERS_TON_CV.pdf">
+    <img src="https://img.shields.io/badge/Résumé-161b22?style=for-the-badge&logo=readdotcv&logoColor=58a6ff&labelColor=161b22" alt="Résumé" />
+  </a>
+  -->
+  <!-- Décommente quand ton portfolio existera :
+  <a href="https://TON-SITE.com">
+    <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=f4bf4f&labelColor=161b22" alt="Portfolio" />
+  </a>
+  -->
+</p>
 
 <br>
 
