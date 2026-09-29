@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Maël Compagnon — AI &amp; Robotics" width="100%">
+  <img src="assets/banner.svg" alt="Maël Compagnon — AI &amp; Robotics" width="100%">
 </p>
 
 ## About
@@ -12,7 +12,7 @@
 
 ## Selected work
 
-- **[bataille-navale]([https://github.com/MaelCompagnon/bataille-navale](https://github.com/MaelCompagnon/bataille-naval))** — desktop Battleship in Swing, strict MVC, no frameworks · `Java`
+- **[bataille-navale](https://github.com/MaelCompagnon/bataille-navale)** — desktop Battleship in Swing, strict MVC, no frameworks · `Java`
 
 <!-- TODO Maël : ajoute tes autres projets ici, même format. -->
 <!-- - **[nom-du-repo](lien)** — une ligne sur ce que ça fait · `Techno` -->
