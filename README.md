@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Maël Compagnon — AI &amp; Robotics" width="100%">
+  <img src="assets/banner.svg" alt="Maël Compagnon — AI &amp; Robotics" width="100%">
 </p>
 
 ## About
@@ -12,9 +12,11 @@
 
 ## Selected work
 
-- **[project-one](#)** — Django Book Management · `Java` `PostgreSQL`
-- **[project-two](#)** — BattleShip · `Python`
-- **[project-three](#)** — Fitness&Nutrition APP · `Html`
+- **[bataille-navale](https://github.com/MaelCompagnon/bataille-navale)** — desktop Battleship in Swing, strict MVC, no frameworks · `Java`
+
+<!-- TODO Maël : ajoute tes autres projets ici, même format. -->
+<!-- - **[nom-du-repo](lien)** — une ligne sur ce que ça fait · `Techno` -->
+
 
 ## Tech stack
 
@@ -83,6 +85,7 @@
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-compagnon-157404296)
+- compagnonmael@gmail.com
 
 <br>
 
