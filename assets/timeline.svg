@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 410" width="860" height="410" role="img" aria-label="Timeline: 2027 looking for an internship, 2026 SalMar Norway, 2026 SeAMK Finland, 2024 to now ANT president, 2024 Numih, ESAIP engineering school">
+  <style>
+    .year  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12.5px; fill: #636c76; letter-spacing: 0.2px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 15.5px; font-weight: 600; fill: #1f2328; }
+    .desc  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12.5px; fill: #636c76; }
+    .rail  { stroke: #d0d7de; stroke-width: 1.5; }
+    .dot   { fill: #1f2328; }
+    .dotnext { fill: none; stroke: #0f766e; stroke-width: 2; }
+    .next  { fill: #0f766e; }
+    @media (prefers-color-scheme: dark) {
+      .year  { fill: #8b949e; }
+      .title { fill: #e6edf3; }
+      .desc  { fill: #8b949e; }
+      .rail  { stroke: #30363d; }
+      .dot   { fill: #e6edf3; }
+      .dotnext { stroke: #2dd4bf; }
+      .next  { fill: #2dd4bf; }
+    }
+  </style>
+
+  <line class="rail" x1="120" y1="46" x2="120" y2="46">
+    <animate attributeName="y2" from="46" to="366" begin="0.2s" dur="1.2s" fill="freeze" />
+  </line>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.5s" fill="freeze" />
+    <circle class="dotnext" cx="120" cy="50" r="5.5" />
+    <text class="year" x="100" y="48" text-anchor="end">2027</text>
+    <text class="title next" x="150" y="48">Looking for a 6-month internship</text>
+    <text class="desc" x="150" y="68">Anywhere international — robotics, AI, software</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.5s" fill="freeze" />
+    <circle class="dot" cx="120" cy="112" r="5" />
+    <text class="year" x="100" y="110" text-anchor="end">2026</text>
+    <text class="year" x="100" y="126" text-anchor="end">may–aug</text>
+    <text class="title" x="150" y="110">SalMar — Norway</text>
+    <text class="desc" x="150" y="130">Robotic cell operator · robot arms, industrial machines, 22 people</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.5s" fill="freeze" />
+    <circle class="dot" cx="120" cy="174" r="5" />
+    <text class="year" x="100" y="172" text-anchor="end">2026</text>
+    <text class="year" x="100" y="188" text-anchor="end">jan–may</text>
+    <text class="title" x="150" y="172">SeAMK — Finland</text>
+    <text class="desc" x="150" y="192">Exchange semester</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.5s" fill="freeze" />
+    <circle class="dot" cx="120" cy="236" r="5" />
+    <text class="year" x="100" y="234" text-anchor="end">2024 →</text>
+    <text class="title" x="150" y="234">ANT — President</text>
+    <text class="desc" x="150" y="254">Digital accessibility for seniors · weekly classes and talks</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.5s" fill="freeze" />
+    <circle class="dot" cx="120" cy="298" r="5" />
+    <text class="year" x="100" y="296" text-anchor="end">2024</text>
+    <text class="title" x="150" y="296">Numih</text>
+    <text class="desc" x="150" y="316">Built an application for a hospital</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" fill="freeze" />
+    <circle class="dot" cx="120" cy="360" r="5" />
+    <text class="year" x="100" y="358" text-anchor="end">esaip</text>
+    <text class="title" x="150" y="358">Engineering school — AI</text>
+    <text class="desc" x="150" y="378">Fourth year, after two years of classe préparatoire</text>
+  </g>
+</svg>
