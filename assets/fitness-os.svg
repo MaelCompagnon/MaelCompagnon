@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 356" width="860" height="356" role="img" aria-label="fitness-os, ecran du jour : calories 2840 sur 3200, proteines 148 sur 160 g, glucides 352 sur 410 g, lipides 82 sur 89 g. Quatre repas planifies. Liste de courses : 18 articles manquants, 24,60 euros. Application web hors ligne, sans framework.">  <style>
+    .m    { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 13.5px; }
+    .tt   { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 11px; fill: #6e7681; }
+    .user { fill: #2dd4bf; }
+    .dir  { fill: #58a6ff; }
+    .pct  { fill: #8b949e; }
+    .cmd  { fill: #e6edf3; }
+    .out  { fill: #adbac7; }
+    .dim  { fill: #768390; }
+    .hl   { fill: #2dd4bf; font-weight: 600; }
+    .cur  { fill: #2dd4bf; }
+    .titre{ font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; font-weight: 700; fill: #e6edf3; letter-spacing: 5px; }
+    .note { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 12px; fill: #768390; }
+    .val  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 12.5px; fill: #adbac7; }
+    .lbl  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 12.5px; fill: #768390; }
+  </style>
+  <rect x="0.5" y="0.5" width="859" height="355" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 8.5a8 8 0 0 1 8-8h843a8 8 0 0 1 8 8V34H0.5z" fill="#161b22" stroke="#30363d"/>
+  <circle cx="24" cy="17" r="5.5" fill="#ec6a5e"/>
+  <circle cx="44" cy="17" r="5.5" fill="#f4bf4f"/>
+  <circle cx="64" cy="17" r="5.5" fill="#61c554"/>
+  <text class="tt" x="430" y="21" text-anchor="middle">fitness-os — aujourd&#8217;hui</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.4s" fill="freeze"/>
+    <text class="lbl" x="24" y="75">Calories</text>
+    <rect x="130" y="64" width="300" height="14" rx="7" fill="#30363d"/>
+    <rect x="130" y="64" width="0" height="14" rx="7" fill="#58a6ff">
+      <animate attributeName="width" from="0" to="266" begin="0.6s" dur="0.7s" fill="freeze"/>
+    </rect>
+    <text class="val" x="452" y="75">2 840 / 3 200 kcal</text>
+    <text class="lbl" x="24" y="105">Protéines</text>
+    <rect x="130" y="94" width="300" height="14" rx="7" fill="#30363d"/>
+    <rect x="130" y="94" width="0" height="14" rx="7" fill="#2dd4bf">
+      <animate attributeName="width" from="0" to="278" begin="0.72s" dur="0.7s" fill="freeze"/>
+    </rect>
+    <text class="val" x="452" y="105">148 / 160 g</text>
+    <text class="lbl" x="24" y="135">Glucides</text>
+    <rect x="130" y="124" width="300" height="14" rx="7" fill="#30363d"/>
+    <rect x="130" y="124" width="0" height="14" rx="7" fill="#f4bf4f">
+      <animate attributeName="width" from="0" to="258" begin="0.84s" dur="0.7s" fill="freeze"/>
+    </rect>
+    <text class="val" x="452" y="135">352 / 410 g</text>
+    <text class="lbl" x="24" y="165">Lipides</text>
+    <rect x="130" y="154" width="300" height="14" rx="7" fill="#30363d"/>
+    <rect x="130" y="154" width="0" height="14" rx="7" fill="#ec6a5e">
+      <animate attributeName="width" from="0" to="276" begin="0.96s" dur="0.7s" fill="freeze"/>
+    </rect>
+    <text class="val" x="452" y="165">82 / 89 g</text>
+  </g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.4s" fill="freeze"/>
+    <text class="note" x="24" y="192">Planning du jour</text>
+    <rect x="24" y="193" width="3" height="17" fill="#2dd4bf" opacity="0.8"/>
+    <text class="lbl" x="40" y="206">Matin</text>
+    <text class="val" x="150" y="206">Bowl porridge massif</text>
+    <text class="lbl" x="452" y="206">620 kcal</text>
+    <rect x="24" y="217" width="3" height="17" fill="#2dd4bf" opacity="0.8"/>
+    <text class="lbl" x="40" y="230">Midi</text>
+    <text class="val" x="150" y="230">Poulet riz brocolis</text>
+    <text class="lbl" x="452" y="230">840 kcal</text>
+    <rect x="24" y="241" width="3" height="17" fill="#2dd4bf" opacity="0.8"/>
+    <text class="lbl" x="40" y="254">Collation</text>
+    <text class="val" x="150" y="254">Shake gainer cacahuète</text>
+    <text class="lbl" x="452" y="254">410 kcal</text>
+    <rect x="24" y="265" width="3" height="17" fill="#2dd4bf" opacity="0.8"/>
+    <text class="lbl" x="40" y="278">Soir</text>
+    <text class="val" x="150" y="278">Saumon patate douce épinards</text>
+    <text class="lbl" x="452" y="278">970 kcal</text>
+  </g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.4s" fill="freeze"/>
+    <text class="note" x="616" y="75" fill="#6e7681">Ce que fait l&#8217;application</text>
+    <text class="note" x="616" y="103">Stock déduit à chaque repas</text>
+    <text class="note" x="616" y="127">Courses par rayon, avec budget</text>
+    <text class="note" x="616" y="151">Séances chronométrées</text>
+    <text class="note" x="616" y="175">Hors ligne, installable</text>
+  </g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/>
+    <text class="m hl" x="24" y="334">Courses : 18 articles manquants — 24,60 €</text>
+    <text class="m dim" x="836" y="334" text-anchor="end">JavaScript · PWA · sans framework</text>
+  </g>
+</svg>
