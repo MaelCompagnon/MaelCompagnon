@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212 34" width="212" height="34" role="img" aria-label="Comment le lancer">
+  <rect x="0.5" y="0.5" width="211" height="33" rx="6" fill="#161b22" stroke="#30363d"/>
+  <path d="M19 10.5V20M15 16.5L19 20.5L23 16.5" stroke="#f4bf4f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="34" y="22" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="13" font-weight="600" fill="#e6edf3">Comment le lancer</text>
+</svg>
