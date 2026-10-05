@@ -10,6 +10,7 @@
 
 ## Selected work
 
+- **[fitness-os](https://github.com/MaelCompagnon/fitness-os)** — offline-first PWA for meal planning, stock and training, no framework, no build · [live](https://maelcompagnon.github.io/fitness-os/) · `JavaScript`
 - **[bataille-navale](https://github.com/MaelCompagnon/bataille-navale)** — desktop Battleship in Swing, strict MVC, no frameworks · `Java`
 
 <!-- TODO Maël : ajoute tes autres projets ici, même format. -->
