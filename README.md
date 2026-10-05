@@ -11,7 +11,21 @@
 ## Selected work
 
 <p align="center">
-  <img src="assets/woordle.svg" alt="Terminal: a game of Woordle — AVION, then ROUTE, then TERME found in 3 guesses. A French word game written in Java, console, no dependencies." width="100%">
+  <a href="https://github.com/MaelCompagnon/Woordle"><img src="assets/woordle.svg" alt="Woordle — a game in the terminal: AVION, ROUTE, then TERME found in 3 guesses" width="100%"></a>
+  <br>
+  <a href="https://maelcompagnon.github.io/Woordle/"><img src="assets/btn-woordle.svg" alt="Jouer en ligne" height="34"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaelCompagnon/fitness-os"><img src="assets/fitness-os.svg" alt="fitness-os — today's screen: macros, four planned meals, shopping list" width="100%"></a>
+  <br>
+  <a href="https://maelcompagnon.github.io/fitness-os/"><img src="assets/btn-fitness-os.svg" alt="Ouvrir l'application" height="34"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaelCompagnon/bataille-navale"><img src="assets/bataille-navale.svg" alt="bataille-navale — two ten by ten grids, your fleet and the opponent's, with hits and misses" width="100%"></a>
+  <br>
+  <a href="https://github.com/MaelCompagnon/bataille-navale#run-it"><img src="assets/btn-bataille-navale.svg" alt="Comment le lancer" height="34"></a>
 </p>
 
 - **[Woordle](https://github.com/MaelCompagnon/Woordle)** — French Wordle in Java, console, zero dependencies, words from a text file or a JDBC database · [live](https://maelcompagnon.github.io/Woordle/) · `Java`
