@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 34" width="232" height="34" role="img" aria-label="Ouvrir l&#8217;application">
+  <rect x="0.5" y="0.5" width="231" height="33" rx="6" fill="#161b22" stroke="#30363d"/>
+  <path d="M15 11.5L23 17L15 22.5Z" fill="#2dd4bf"/>
+  <text x="34" y="22" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="13" font-weight="600" fill="#e6edf3">Ouvrir l&#8217;application</text>
+</svg>
