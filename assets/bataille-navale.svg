@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 384" width="860" height="384" role="img" aria-label="bataille-navale : deux grilles de dix sur dix. A gauche votre flotte, a droite la flotte adverse avec les tirs. Croix grise pour un coup manque, croix rouge pour un touche. Cinq classes de bateaux heritant de Bateau. Java Swing, MVC strict, sans framework.">  <style>
+    .m    { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 13.5px; }
+    .tt   { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 11px; fill: #6e7681; }
+    .user { fill: #2dd4bf; }
+    .dir  { fill: #58a6ff; }
+    .pct  { fill: #8b949e; }
+    .cmd  { fill: #e6edf3; }
+    .out  { fill: #adbac7; }
+    .dim  { fill: #768390; }
+    .hl   { fill: #2dd4bf; font-weight: 600; }
+    .cur  { fill: #2dd4bf; }
+    .titre{ font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; font-weight: 700; fill: #e6edf3; letter-spacing: 5px; }
+    .note { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 12px; fill: #768390; }
+    .case { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 11px; fill: #6e7681; }
+  </style>
+  <rect x="0.5" y="0.5" width="859" height="383" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 8.5a8 8 0 0 1 8-8h843a8 8 0 0 1 8 8V34H0.5z" fill="#161b22" stroke="#30363d"/>
+  <circle cx="24" cy="17" r="5.5" fill="#ec6a5e"/>
+  <circle cx="44" cy="17" r="5.5" fill="#f4bf4f"/>
+  <circle cx="64" cy="17" r="5.5" fill="#61c554"/>
+  <text class="tt" x="430" y="21" text-anchor="middle">bataille-navale — Application</text>
+  <defs>
+    <pattern id="m40" x="40" y="92" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="20" height="20" rx="2" fill="#161b22" stroke="#30363d"/></pattern>
+    <pattern id="m330" x="330" y="92" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="20" height="20" rx="2" fill="#161b22" stroke="#30363d"/></pattern>
+  </defs>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.4s" fill="freeze"/>
+    <text class="note" x="40" y="78">Votre flotte</text>
+    <text class="case" x="51" y="90" text-anchor="middle">A</text>
+    <text class="case" x="32" y="107" text-anchor="end">1</text>
+    <text class="case" x="73" y="90" text-anchor="middle">B</text>
+    <text class="case" x="32" y="129" text-anchor="end">2</text>
+    <text class="case" x="95" y="90" text-anchor="middle">C</text>
+    <text class="case" x="32" y="151" text-anchor="end">3</text>
+    <text class="case" x="117" y="90" text-anchor="middle">D</text>
+    <text class="case" x="32" y="173" text-anchor="end">4</text>
+    <text class="case" x="139" y="90" text-anchor="middle">E</text>
+    <text class="case" x="32" y="195" text-anchor="end">5</text>
+    <text class="case" x="161" y="90" text-anchor="middle">F</text>
+    <text class="case" x="32" y="217" text-anchor="end">6</text>
+    <text class="case" x="183" y="90" text-anchor="middle">G</text>
+    <text class="case" x="32" y="239" text-anchor="end">7</text>
+    <text class="case" x="205" y="90" text-anchor="middle">H</text>
+    <text class="case" x="32" y="261" text-anchor="end">8</text>
+    <text class="case" x="227" y="90" text-anchor="middle">I</text>
+    <text class="case" x="32" y="283" text-anchor="end">9</text>
+    <text class="case" x="249" y="90" text-anchor="middle">J</text>
+    <text class="case" x="32" y="305" text-anchor="end">10</text>
+    <rect x="40" y="92" width="220" height="220" fill="url(#m40)"/>
+    <path d="M45.0 97.0L55.0 107.0M55.0 97.0L45.0 107.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <rect x="40" y="114" width="20" height="20" rx="2" fill="#58a6ff" stroke="#30363d"/>
+    <rect x="62" y="114" width="20" height="20" rx="2" fill="#58a6ff" stroke="#30363d"/>
+    <rect x="84" y="114" width="20" height="20" rx="2" fill="#58a6ff" stroke="#30363d"/>
+    <rect x="106" y="114" width="20" height="20" rx="2" fill="#58a6ff" stroke="#30363d"/>
+    <path d="M111.0 119.0L121.0 129.0M121.0 119.0L111.0 129.0" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <rect x="128" y="114" width="20" height="20" rx="2" fill="#58a6ff" stroke="#30363d"/>
+    <path d="M133.0 119.0L143.0 129.0M143.0 119.0L133.0 129.0" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <rect x="216" y="136" width="20" height="20" rx="2" fill="#2dd4bf" stroke="#30363d"/>
+    <rect x="216" y="158" width="20" height="20" rx="2" fill="#2dd4bf" stroke="#30363d"/>
+    <path d="M221.0 163.0L231.0 173.0M231.0 163.0L221.0 173.0" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M67.0 185.0L77.0 195.0M77.0 185.0L67.0 195.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <path d="M177.0 185.0L187.0 195.0M187.0 185.0L177.0 195.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <rect x="216" y="180" width="20" height="20" rx="2" fill="#2dd4bf" stroke="#30363d"/>
+    <rect x="84" y="202" width="20" height="20" rx="2" fill="#61c554" stroke="#30363d"/>
+    <rect x="106" y="202" width="20" height="20" rx="2" fill="#61c554" stroke="#30363d"/>
+    <rect x="128" y="202" width="20" height="20" rx="2" fill="#61c554" stroke="#30363d"/>
+    <rect x="216" y="202" width="20" height="20" rx="2" fill="#2dd4bf" stroke="#30363d"/>
+    <rect x="150" y="224" width="20" height="20" rx="2" fill="#f4bf4f" stroke="#30363d"/>
+    <path d="M155.0 229.0L165.0 239.0M165.0 229.0L155.0 239.0" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M89.0 251.0L99.0 261.0M99.0 251.0L89.0 261.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <rect x="150" y="246" width="20" height="20" rx="2" fill="#f4bf4f" stroke="#30363d"/>
+    <rect x="62" y="268" width="20" height="20" rx="2" fill="#ec6a5e" stroke="#30363d"/>
+    <rect x="84" y="268" width="20" height="20" rx="2" fill="#ec6a5e" stroke="#30363d"/>
+    <rect x="150" y="268" width="20" height="20" rx="2" fill="#f4bf4f" stroke="#30363d"/>
+    <path d="M243.0 295.0L253.0 305.0M253.0 295.0L243.0 305.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+  </g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.4s" fill="freeze"/>
+    <text class="note" x="330" y="78">Flotte adverse</text>
+    <text class="case" x="341" y="90" text-anchor="middle">A</text>
+    <text class="case" x="322" y="107" text-anchor="end">1</text>
+    <text class="case" x="363" y="90" text-anchor="middle">B</text>
+    <text class="case" x="322" y="129" text-anchor="end">2</text>
+    <text class="case" x="385" y="90" text-anchor="middle">C</text>
+    <text class="case" x="322" y="151" text-anchor="end">3</text>
+    <text class="case" x="407" y="90" text-anchor="middle">D</text>
+    <text class="case" x="322" y="173" text-anchor="end">4</text>
+    <text class="case" x="429" y="90" text-anchor="middle">E</text>
+    <text class="case" x="322" y="195" text-anchor="end">5</text>
+    <text class="case" x="451" y="90" text-anchor="middle">F</text>
+    <text class="case" x="322" y="217" text-anchor="end">6</text>
+    <text class="case" x="473" y="90" text-anchor="middle">G</text>
+    <text class="case" x="322" y="239" text-anchor="end">7</text>
+    <text class="case" x="495" y="90" text-anchor="middle">H</text>
+    <text class="case" x="322" y="261" text-anchor="end">8</text>
+    <text class="case" x="517" y="90" text-anchor="middle">I</text>
+    <text class="case" x="322" y="283" text-anchor="end">9</text>
+    <text class="case" x="539" y="90" text-anchor="middle">J</text>
+    <text class="case" x="322" y="305" text-anchor="end">10</text>
+    <rect x="330" y="92" width="220" height="220" fill="url(#m330)"/>
+    <path d="M533.0 119.0L543.0 129.0M543.0 119.0L533.0 129.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <path d="M379.0 141.0L389.0 151.0M389.0 141.0L379.0 151.0" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M401.0 141.0L411.0 151.0M411.0 141.0L401.0 151.0" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M423.0 141.0L433.0 151.0M433.0 141.0L423.0 151.0" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M445.0 163.0L455.0 173.0M455.0 163.0L445.0 173.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <path d="M489.0 207.0L499.0 217.0M499.0 207.0L489.0 217.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <path d="M401.0 229.0L411.0 239.0M411.0 229.0L401.0 239.0" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M467.0 229.0L477.0 239.0M477.0 229.0L467.0 239.0" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M511.0 251.0L521.0 261.0M521.0 251.0L511.0 261.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <path d="M335.0 273.0L345.0 283.0M345.0 273.0L335.0 283.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <path d="M357.0 295.0L367.0 305.0M367.0 295.0L357.0 305.0" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+  </g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.4s" fill="freeze"/>
+    <text class="note" x="620" y="78">Cinq classes de bateaux</text>
+    <rect x="620" y="98" width="11" height="11" rx="2" fill="#58a6ff"/>
+    <rect x="633" y="98" width="11" height="11" rx="2" fill="#58a6ff"/>
+    <rect x="646" y="98" width="11" height="11" rx="2" fill="#58a6ff"/>
+    <rect x="659" y="98" width="11" height="11" rx="2" fill="#58a6ff"/>
+    <rect x="672" y="98" width="11" height="11" rx="2" fill="#58a6ff"/>
+    <text class="note" x="700" y="108">PorteAvion</text>
+    <rect x="620" y="124" width="11" height="11" rx="2" fill="#2dd4bf"/>
+    <rect x="633" y="124" width="11" height="11" rx="2" fill="#2dd4bf"/>
+    <rect x="646" y="124" width="11" height="11" rx="2" fill="#2dd4bf"/>
+    <rect x="659" y="124" width="11" height="11" rx="2" fill="#2dd4bf"/>
+    <text class="note" x="700" y="134">Cuirasse</text>
+    <rect x="620" y="150" width="11" height="11" rx="2" fill="#61c554"/>
+    <rect x="633" y="150" width="11" height="11" rx="2" fill="#61c554"/>
+    <rect x="646" y="150" width="11" height="11" rx="2" fill="#61c554"/>
+    <text class="note" x="700" y="160">SousMarin</text>
+    <rect x="620" y="176" width="11" height="11" rx="2" fill="#f4bf4f"/>
+    <rect x="633" y="176" width="11" height="11" rx="2" fill="#f4bf4f"/>
+    <rect x="646" y="176" width="11" height="11" rx="2" fill="#f4bf4f"/>
+    <text class="note" x="700" y="186">ContreTorpilleur</text>
+    <rect x="620" y="202" width="11" height="11" rx="2" fill="#ec6a5e"/>
+    <rect x="633" y="202" width="11" height="11" rx="2" fill="#ec6a5e"/>
+    <text class="note" x="700" y="212">LanceTorpille</text>
+    <path d="M623 242L633 252M633 242L623 252" stroke="#6e7681" stroke-width="2" stroke-linecap="round"/>
+    <text class="note" x="644" y="252">coup manqué</text>
+    <path d="M623 268L633 278M633 268L623 278" stroke="#ec6a5e" stroke-width="2" stroke-linecap="round"/>
+    <text class="note" x="644" y="278">touché</text>
+  </g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.4s" fill="freeze"/>
+    <text class="m hl" x="40" y="362">Trois tirs par tour, puis l&#8217;ordinateur riposte.</text>
+    <text class="m dim" x="836" y="362" text-anchor="end">Java · Swing · MVC strict</text>
+  </g>
+</svg>
